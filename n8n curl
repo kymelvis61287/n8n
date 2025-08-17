@@ -1,0 +1,3 @@
+curl -X POST -F
+'C:\Users\user\Desktop\babe content'
+https://your-n8n-instance/webhook/9811d7bd-d298-4811-969f-e22f516f0eab
